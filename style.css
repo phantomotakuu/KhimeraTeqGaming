@@ -15,10 +15,10 @@ body {
 
 p {
   font-family: "Times New Roman";
-  color: rgba(51,153,255);
+  color: rgb(51,153,255);
 }
 
 h2 {
   font-family: "Georgia";
-  color: rgba(150,0,24);
+  color: rgb(150,0,24);
 }
