@@ -22,3 +22,8 @@ h2 {
   font-family: "Georgia";
   color: rgb(150,0,24);
 }
+
+Brand {
+  width: 5px;
+  height: 5px;
+}
